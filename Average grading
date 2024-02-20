@@ -1,0 +1,8 @@
+int x = Integer.parseInt(jTextField1.getText ()); 
+      int y = Integer.parseInt(jTextField2.getText ()); 
+      int a = Integer.parseInt(jTextField3.getText ()); 
+      int b = Integer.parseInt(jTextField4.getText ()); 
+      int ave = x + y + a + b;
+      int perc = ave/4;
+      
+      jTextField5.setText("average is :" + String.valueOf (perc));
