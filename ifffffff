@@ -1,0 +1,5 @@
+String hello = jTextField1.getText();
+        if (hello.equalsIgnoreCase("hello"))
+        {
+        JOptionPane.showMessageDialog(this, "HI GOOD MORNING");
+        }
