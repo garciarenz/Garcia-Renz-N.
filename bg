@@ -1,0 +1,33 @@
+<head>
+        <title>Renz word</title>
+        <style>
+ body {
+     background-image: url('BG.jpg')
+ }
+</style>
+ </head>
+ <body> 
+     
+     <img src ="kk.jpg" width="300" height="300">
+     
+     <p>Paragraph</p>
+     <b>bold</b>
+     <i>italic</i>
+     <u>Underline</u>
+     <h1>Heading</h1>
+     <font face ="Algerian">RENZ</font>
+     <font size ="30">RENZ</font>
+     <font color ="cyan">RENZ</font>
+ <marquee>Wohooo</marquee>
+ <marquee
+  direction="down"
+  width="250"
+  height="200"
+  behavior="alternate"
+  style="border:solid">
+  <marquee behavior="alternate">This text will bounce</marquee>
+</marquee>
+     
+</body>
+</html>
+        
